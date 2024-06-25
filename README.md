@@ -56,8 +56,8 @@ Kext | Description
 [Lilu](https://github.com/acidanthera/Lilu/releases) | Needed to load kexts like AppleALC, WhateverGreen, VirtualSMC, etc.
 [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/release) | Needed to make Ethernet work.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | Emulates the Mac's SMC chip, required to boot the OS.
-[SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the CPU temperatures.
-[SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the fans speeds.
+[SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the CPU temperatures. (Optional)
+[SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the fans speeds. (Optional)
 [USBMap](https://github.com/corpnewt/USBMap) | Needed for USB ports to work.
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/) | Needed for GPUs patching and QE/CI support.
 
