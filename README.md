@@ -57,6 +57,6 @@ Kext | Description
 [SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the CPU temperatures.
 [SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the fans speeds.
 [USBMap](https://github.com/corpnewt/USBMap) | Needed for USB ports to work.
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.6) | Needed for GPUs patching.
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.6) | Needed for GPUs patching and QE/CI support.
 
 
