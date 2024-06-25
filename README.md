@@ -31,7 +31,7 @@ Desktop | HP 280 G1
 CPU | Intel i3 4160 Quad Core
 iGPU | Intel HD Graphics 4400
 Audio Codec | RealTek ALC221
-Ethernet Chipset | RealTek RTL8168/8111 PCI-E Gigabit Ethernet NIC
+Ethernet Controller | RealTek RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Included Drivers:
 
