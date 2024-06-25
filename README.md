@@ -40,23 +40,25 @@ Drivers | Description
 HfsPlus | Needed to show HFS drives.
 OpenRuntime | Required to boot the EFI.
 ResetNvramEntry | Needed to reset the system's NVRAM. (Optional) 
-FirmwareSettingsEntry | Used to reboot into the system's UEFI settings (Optional)
+FirmwareSettingsEntry | Used to reboot into the system's UEFI settings. (Optional)
+
+These drivers are included with the OpenCore package, you can update them by downloading it [here](https://github.com/acidanthera/OpenCorePkg/releases/).
 
 # Installed Kexts
 
 Kext | Description
 --- | ---
 [AppleALC](https://github.com/acidanthera/AppleALC/releases) | Required for patching AppleHDA, without this the audio will not work.
-[HoRNDIS](https://github.com/jwise/HoRNDIS/releases/tag/rel9.2) | Used for Android USB Tethering (Optional).
-[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.4.0) | Used to make Bluetooth work into macOS (Optional).
-[IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.4.0) | Required for IntelBluetoothFirmware.
-[IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/tag/v2.4.0) | Same as above.
+[HoRNDIS](https://github.com/jwise/HoRNDIS/releases/) | Used for Android USB Tethering (Optional).
+[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Used to make Bluetooth work into macOS (Optional).
+[IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Required for IntelBluetoothFirmware.
+[IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Same as above.
 [Lilu](https://github.com/acidanthera/Lilu/releases) | Needed to load kexts like AppleALC, WhateverGreen, VirtualSMC, etc.
 [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/release) | Needed to make Ethernet work.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | Emulates the Mac's SMC chip, required to boot the OS.
 [SMCProcessor](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the CPU temperatures.
 [SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the fans speeds.
 [USBMap](https://github.com/corpnewt/USBMap) | Needed for USB ports to work.
-[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/tag/1.6.6) | Needed for GPUs patching and QE/CI support.
+[WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/) | Needed for GPUs patching and QE/CI support.
 
 
