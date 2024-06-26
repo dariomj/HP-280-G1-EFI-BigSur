@@ -1,4 +1,4 @@
-<img src="/Docs/Logo.jpg" width="885" height="200"/>
+<img src="/Docs/Logo1.jpg" width="885" height="200"/>
 
 # [OpenCore](https://github.com/acidanthera/OpenCorePkg) EFI
 
