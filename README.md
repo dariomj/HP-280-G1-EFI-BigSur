@@ -5,7 +5,7 @@ Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server
 
 **OpenCore Version:** 1.0.0 from May 9, 2024.
 
-If you need to make any changes on the EFI follow this guide:https://dortania.github.io/OpenCore-Install-Guide/
+If you need to make any changes on the EFI follow this guide [here](https://dortania.github.io/OpenCore-Install-Guide/).
 
 # IMPORTANT WARNING
 
