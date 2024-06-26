@@ -5,6 +5,8 @@ Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server
 
 **OpenCore Version:** 1.0.0 from May 9, 2024.
 
+if you need to make any changes on the EFI follow this guide:https://dortania.github.io/OpenCore-Install-Guide/
+
 # IMPORTANT WARNING
 
 To avoid problems i removed the SMBIOS Serials, you can generate yours by following [this](https://dortania.github.io/OpenCore-Install-Guide/config.plist/haswell.html#platforminfo) guide.
@@ -27,10 +29,12 @@ It's really easy and it doesn't take long.
 
 Component | Model
 --- | --- 
-Desktop | HP 280 G1
-CPU | Intel i3 4160 Quad Core
-iGPU | Intel HD Graphics 4400
-Audio Codec | RealTek ALC221
+Desktop | HP 280 G1 MT
+Chipset | Intel H81
+CPU |  Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz - 4 Cores, 2 Threads - **Haswell**
+iGPU | Intel HD Graphics 4400 - 1GB
+USB Ports | Front: 2x USB 2.0 - Back: 4x USB 2.0 + 2x USB 3.0
+Audio Codec | RealTek HD Audio - ALC221
 Ethernet Controller | RealTek RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
 # Included Drivers:
