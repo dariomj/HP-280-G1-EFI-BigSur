@@ -2,13 +2,13 @@
 
 # [OpenCore](https://github.com/acidanthera/OpenCorePkg) EFI
 
-A prebuilt EFI for installing macOS Big Sur on the HP 280 G1.
+**A prebuilt EFI for installing macOS Big Sur on the HP 280 G1.**
 
-Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server!
+Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server for helping me!
+
+(If you need to make any changes to the EFI, follow this guide [here](https://dortania.github.io/OpenCore-Install-Guide/).)
 
 **OpenCore Version:** 1.0.0 from May 9, 2024.
-
-If you need to make any changes to the EFI, follow this guide [here](https://dortania.github.io/OpenCore-Install-Guide/).
 
 # IMPORTANT WARNING
 
@@ -26,7 +26,7 @@ It's really easy and it doesn't take long.
 
 # Bugs
 
-- Glitching video (could be me for using an adapter)
+- Glitching video with trasparency effects. (could be me for using an adapter)
 
 # Specifications of the PC
 
@@ -34,7 +34,7 @@ Component | Model
 --- | --- 
 Desktop | HP 280 G1 MT
 Chipset | Intel H81
-CPU |  Intel(R) Core(TM) i3-4160 CPU @ 3.60GHz - 4 Cores, 2 Threads - **Haswell**
+CPU |  Intel(R) Core i3-4160 3.60GHz - **Haswell**
 iGPU | Intel HD Graphics 4400 - 1GB
 USB Ports | Front: 2x USB 2.0 - Back: 4x USB 2.0 + 2x USB 3.0
 Audio Codec | RealTek HD Audio - ALC221
