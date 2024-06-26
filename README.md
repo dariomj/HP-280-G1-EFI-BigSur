@@ -4,8 +4,6 @@
 
 **A prebuilt EFI for installing macOS Big Sur on the HP 280 G1.**
 
-Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server for helping me!
-
 (If you need to make any changes to the EFI, follow this guide [here](https://dortania.github.io/OpenCore-Install-Guide/).)
 
 **OpenCore Version:** 1.0.0 from May 9, 2024.
@@ -67,5 +65,10 @@ Kext | Description
 [SMCSuperIO](https://github.com/acidanthera/VirtualSMC/releases) | Used to check the fans speeds. (Optional)
 [USBMap](https://github.com/corpnewt/USBMap) | Needed for USB ports to work.
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/) | Needed for GPUs patching and QE/CI support.
+
+# Credits
+
+- sonic89 - For helping me a lot building this EFI, without him this wouldn't exist.
+- Krazy-Killa from /r/Hackintosh Paradise - For finding the problem with the iGPU
 
 
