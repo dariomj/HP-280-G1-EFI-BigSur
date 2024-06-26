@@ -67,8 +67,8 @@ Kext | Description
 [WhateverGreen](https://github.com/acidanthera/WhateverGreen/releases/) | Needed for GPUs patching and QE/CI support.
 
 # Credits
-
+- [Dortania](https://dortania.github.io/) - For the amazing OpenCore guides.
 - sonic89 - For helping me a lot building this EFI, without him this wouldn't exist.
-- Krazy-Killa from /r/Hackintosh Paradise - For finding the problem with the iGPU
+- Krazy-Killa from /r/Hackintosh Paradise - For finding the problem with the iGPU.
 
 
