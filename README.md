@@ -1,4 +1,7 @@
+<img src="/Docs/Logo.jpg" width="700" height="200"/>
+
 # [OpenCore](https://github.com/acidanthera/OpenCorePkg) EFI
+
 A prebuilt EFI for installing macOS Big Sur on the HP 280 G1.
 
 Special thanks to sonic89 and Krazy-Killa from the /r/Hackintosh Paradise server!
