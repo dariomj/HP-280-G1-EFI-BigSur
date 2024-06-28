@@ -16,6 +16,7 @@ It's really easy and it doesn't take long.
 
 # Working features:
 
+- Power Management
 - QE/CI of Intel HD 4400
 - Audio
 - Ethernet
