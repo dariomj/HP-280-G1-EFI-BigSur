@@ -24,7 +24,8 @@ It's really easy and it doesn't take long.
 
 # Bugs
 
-- Glitching video with trasparency effects. (could be me for using an adapter)
+- Sleep causes screen flickering.
+- Glitching video with trasparency effects, photos and Siri. (could be me for using an adapter)
 
 # Specifications of the PC
 
@@ -55,9 +56,6 @@ Kext | Description
 --- | ---
 [AppleALC](https://github.com/acidanthera/AppleALC/releases) | Required for patching AppleHDA, without this the audio will not work.
 [HoRNDIS](https://github.com/jwise/HoRNDIS/releases/) | Used for Android USB Tethering (Optional).
-[IntelBluetoothFirmware](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Used to make Bluetooth work into macOS (Optional).
-[IntelBluetoothInjector](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Required for IntelBluetoothFirmware.
-[IntelBTPatcher](https://github.com/OpenIntelWireless/IntelBluetoothFirmware/releases/) | Same as above.
 [Lilu](https://github.com/acidanthera/Lilu/releases) | Needed to load kexts like AppleALC, WhateverGreen, VirtualSMC, etc.
 [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/release) | Needed to make Ethernet work.
 [VirtualSMC](https://github.com/acidanthera/VirtualSMC/releases) | Emulates the Mac's SMC chip, required to boot the OS.
