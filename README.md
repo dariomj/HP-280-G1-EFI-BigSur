@@ -46,6 +46,7 @@ Drivers | Description
 --- | ---
 HfsPlus | Needed to show HFS drives.
 OpenRuntime | Required to boot the EFI.
+OpenCanopy | Used to load the boot GUI.
 ResetNvramEntry | Needed to reset the system's NVRAM. (Optional) 
 FirmwareSettingsEntry | Used to reboot into the system's UEFI settings. (Optional)
 
