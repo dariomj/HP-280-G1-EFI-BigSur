@@ -69,6 +69,6 @@ Kext | Description
 # Credits
 - [Dortania](https://dortania.github.io/) - For the amazing OpenCore guides.
 - sonic89 - For helping me a lot building this EFI, without him this wouldn't exist.
-- Krazy-Killa from /r/Hackintosh Paradise - For finding the problem with the iGPU.
+- Krazy-Killa from /r/Hackintosh Paradise - For helping me with the QE/CI
 
 
