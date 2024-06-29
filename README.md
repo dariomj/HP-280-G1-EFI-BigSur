@@ -40,6 +40,14 @@ USB Ports | Front: 2x USB 2.0 - Back: 4x USB 2.0 + 2x USB 3.0
 Audio Codec | RealTek HD Audio - ALC221
 Ethernet Controller | RealTek RTL8168/8111 PCI-E Gigabit Ethernet NIC
 
+# ACPI Tables
+
+Name | Description
+--- | ---
+SSDT-PLUG | For fixing Power Management
+SSDT-EC | For faking the Embedded Controller
+SSDT-EHCx_OFF | Needed to remove the extra USBs from the mapping
+
 # Included Drivers:
 
 Drivers | Description
