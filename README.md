@@ -26,7 +26,7 @@ It's really easy and it doesn't take long.
 # Bugs
 
 - Sleep causes screen flickering.
-- Glitching video with trasparency effects, photos and Siri. (could be me for using an adapter)
+- Glitching video with trasparency effects, photos and Siri.
 
 # Specifications of the PC
 
