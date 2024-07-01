@@ -28,6 +28,8 @@ It's really easy and it doesn't take long.
 - Sleep causes screen flickering.
 - Glitching video with trasparency effects, photos and Siri.
 
+Note: You might not have those issues, it could be me for using a DVI-D to VGA adapter.
+
 # Specifications of the PC
 
 Component | Model
