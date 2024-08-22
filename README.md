@@ -66,7 +66,7 @@ These drivers are included with the OpenCore package, you can update them by dow
 
 Kext | Description
 --- | ---
-[AppleALC](https://github.com/acidanthera/AppleALC/releases) | Required for patching AppleHDA, without this the audio will not work.
+[AppleALC](https://github.com/acidanthera/AppleALC/releases) | Required for patching AppleHDA and make the audio work.
 [HoRNDIS](https://github.com/jwise/HoRNDIS/releases/) | Used for Android USB Tethering (Optional).
 [Lilu](https://github.com/acidanthera/Lilu/releases) | Needed to load kexts like AppleALC, WhateverGreen, VirtualSMC, etc.
 [RealtekRTL8111](https://github.com/Mieze/RTL8111_driver_for_OS_X/release) | Needed to make Ethernet work.
