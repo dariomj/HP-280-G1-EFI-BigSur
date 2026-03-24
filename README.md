@@ -28,7 +28,7 @@ It's really easy and it doesn't take long.
 - Sleep causes screen flickering.
 - Glitching video with trasparency effects, photos and Siri.
 
-# Specifications of the PC
+# PC Specifications
 
 Component | Model
 --- | --- 
